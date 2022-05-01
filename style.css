@@ -1,0 +1,17 @@
+.column1{
+    width: 90%;
+    height: 60%;
+    border-top: 5px black;
+
+}
+.image{
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.column2{
+    text-align: center;
+}
+#navbar{
+    padding-bottom: 30%;
+}
